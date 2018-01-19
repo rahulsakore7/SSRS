@@ -1,29 +1,6 @@
-# README #
+Discovered how to create, manage, and deliver interactive reports—not just to print, 
+and also dynamically explore enterprise-level data—with Reporting Services in SQL Server.
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Executed Report Builder to build and format reports from a variety of data sources
+and also how to perform basic administration tasks such as granting user access and organizing reports in the Report Manager. 
+Plus, Executed how to add interactive sorting and filtering functionality to reports, and create column and pie charts to better express your data.
